@@ -42,7 +42,7 @@ export default function Home() {
         {/* Hero */}
         <section className="grid md:grid-cols-2 gap-8 items-center">
           <div className="space-y-6">
-            <p className="text-sm uppercase tracking-wider text-blue-600 font-medium">Hi, I'm Tran — Front-End Developer</p>
+            <p className="text-sm uppercase tracking-wider text-blue-600 font-medium">Hi, I am TranHuuTri— Front-End Developer</p>
             <h1 className="text-3xl md:text-5xl font-extrabold leading-tight">I build fast, accessible and maintainable web applications.</h1>
             <p className="text-gray-700 max-w-xl">I transform Figma designs into production-ready React + TypeScript code. I have experience building e-commerce platforms, affiliate marketing dashboards, SAP-integrated systems and mobile apps. I focus on performance, usability and clean code.</p>
 
@@ -199,7 +199,7 @@ export default function Home() {
 
         {/* Contact */}
         <section id="contact" className="bg-white rounded-2xl p-8 shadow border border-gray-100 text-center">
-          <h2 className="text-2xl font-semibold">Let's work together</h2>
+          <h2 className="text-2xl font-semibold">Let work together</h2>
           <p className="text-gray-600 mt-2">Available for front-end roles, internships and freelance projects. Reach out to discuss your project or request my CV.</p>
 
           <div className="mt-6 flex flex-wrap justify-center gap-3">
